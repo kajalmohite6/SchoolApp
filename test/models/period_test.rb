@@ -2,7 +2,7 @@
 
 require 'test_helper'
 
-class TeacherTest < ActiveSupport::TestCase
+class PeriodTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
